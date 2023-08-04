@@ -1,0 +1,11 @@
+.widget{
+    background-color: rgb(157, 255, 0);
+    width: 180px;
+     padding: 10px;
+ 
+}                                        
+.col-md-6{
+  background-color: rgb(255, 72, 0);
+    width: 200px;
+     padding: 10px;
+}

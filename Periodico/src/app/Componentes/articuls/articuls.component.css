@@ -1,0 +1,9 @@
+.articulos {
+    background-color: rgb(226, 17, 17);
+    width: 600px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+
+}
